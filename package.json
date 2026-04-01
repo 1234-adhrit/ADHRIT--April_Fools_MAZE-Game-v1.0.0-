@@ -1,0 +1,12 @@
+{
+  "name": "april-fools-maze",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A funny 2D maze game with reversed controls and an April Fools ending.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
