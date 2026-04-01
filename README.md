@@ -51,3 +51,7 @@ If you create the service from the repo's `render.yaml`, it will use the free No
 - `script.js` - maze generation, game logic, reversed controls, and finale
 - `server.js` - tiny Node server for Render web service deployment
 - `render.yaml` - optional Render Blueprint config
+
+## Play Online
+
+- https://adhrit-april-fools-maze-game.onrender.com
