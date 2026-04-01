@@ -20,3 +20,7 @@ If you want a local server instead, any static server works.
 - `index.html` - layout and UI
 - `style.css` - visuals, responsive styling, and prank effects
 - `script.js` - maze generation, game logic, reversed controls, and finale
+
+## Play Online
+
+- https://adhrit-april-fools-maze-game.onrender.com
